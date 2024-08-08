@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7da48ff48408e894b8ccdfcdbf17c8f8, type: 3}
+  m_Name: BonusesHolder
+  m_EditorClassIdentifier: 
+  _starLinesCuttingConfig: {fileID: 11400000, guid: 719a2a7277bc49e4d91b017b8f965fa6, type: 2}
+  _linesCuttingConfig: {fileID: 11400000, guid: 82e79fe6cd587a84f82fe2061326f3e8, type: 2}
+  _temporalFieldConfig: {fileID: 11400000, guid: 8dad443ecff5d224f82ff9a75674238e, type: 2}

@@ -1,0 +1,31 @@
+{
+    "idSave": 6,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "GameData": {
+        "Record": 1378,
+        "CurrentCoins": 0,
+        "SettingsData": {
+            "soundOn": true,
+            "hapticOn": true
+        },
+        "BoughtFurries": [],
+        "BoughtBonuses": {
+            "_data": [
+                {
+                    "EntityID": "LinesCut",
+                    "EntityCount": 49
+                },
+                {
+                    "EntityID": "StarCut",
+                    "EntityCount": 49
+                },
+                {
+                    "EntityID": "TemporalField",
+                    "EntityCount": 49
+                }
+            ]
+        }
+    }
+}

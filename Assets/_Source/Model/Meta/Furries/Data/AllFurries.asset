@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d375666668b9694bb83849a3c2e19f0, type: 3}
+  m_Name: AllFurries
+  m_EditorClassIdentifier: 
+  _commonFurries: {fileID: 11400000, guid: d5f8d9b930e07124f822e41098b1480d, type: 2}
+  _rareFurries: {fileID: 11400000, guid: de03b2bc2511a6d4eab4df4203920d2a, type: 2}
+  _epicFurries: {fileID: 11400000, guid: 46e447e57a918664fb58134de4b11e2e, type: 2}
+  _spawnChance: 0.555
